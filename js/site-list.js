@@ -42,4 +42,5 @@ const siteList = [
     'flipkart.com',
     'qvc.com',
     'shopping.google.com'
+    'best.aliexpress.com'
 ]
